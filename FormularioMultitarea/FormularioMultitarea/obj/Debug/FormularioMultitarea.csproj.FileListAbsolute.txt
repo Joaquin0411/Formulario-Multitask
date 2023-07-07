@@ -1,0 +1,10 @@
+C:\Users\abbot\OneDrive\Escritorio\nose\Carpeta Joaquín Abbott 4°3°\6to 6ta\FormularioMultitarea\FormularioMultitarea\bin\Debug\FormularioMultitarea.exe.config
+C:\Users\abbot\OneDrive\Escritorio\nose\Carpeta Joaquín Abbott 4°3°\6to 6ta\FormularioMultitarea\FormularioMultitarea\bin\Debug\FormularioMultitarea.exe
+C:\Users\abbot\OneDrive\Escritorio\nose\Carpeta Joaquín Abbott 4°3°\6to 6ta\FormularioMultitarea\FormularioMultitarea\bin\Debug\FormularioMultitarea.pdb
+C:\Users\abbot\OneDrive\Escritorio\nose\Carpeta Joaquín Abbott 4°3°\6to 6ta\FormularioMultitarea\FormularioMultitarea\obj\Debug\FormularioMultitarea.csproj.AssemblyReference.cache
+C:\Users\abbot\OneDrive\Escritorio\nose\Carpeta Joaquín Abbott 4°3°\6to 6ta\FormularioMultitarea\FormularioMultitarea\obj\Debug\FormularioMultitarea.Form1.resources
+C:\Users\abbot\OneDrive\Escritorio\nose\Carpeta Joaquín Abbott 4°3°\6to 6ta\FormularioMultitarea\FormularioMultitarea\obj\Debug\FormularioMultitarea.Properties.Resources.resources
+C:\Users\abbot\OneDrive\Escritorio\nose\Carpeta Joaquín Abbott 4°3°\6to 6ta\FormularioMultitarea\FormularioMultitarea\obj\Debug\FormularioMultitarea.csproj.GenerateResource.cache
+C:\Users\abbot\OneDrive\Escritorio\nose\Carpeta Joaquín Abbott 4°3°\6to 6ta\FormularioMultitarea\FormularioMultitarea\obj\Debug\FormularioMultitarea.csproj.CoreCompileInputs.cache
+C:\Users\abbot\OneDrive\Escritorio\nose\Carpeta Joaquín Abbott 4°3°\6to 6ta\FormularioMultitarea\FormularioMultitarea\obj\Debug\FormularioMultitarea.exe
+C:\Users\abbot\OneDrive\Escritorio\nose\Carpeta Joaquín Abbott 4°3°\6to 6ta\FormularioMultitarea\FormularioMultitarea\obj\Debug\FormularioMultitarea.pdb
